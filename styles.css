@@ -1,0 +1,32 @@
+#skills {
+  text-align: center;
+}
+
+.skill-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items:baseline;
+
+  width: 100%;
+}
+#skills .skill-list div {
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5em;
+  justify-content: left;
+
+  /* padding-top: 1em; */
+
+  width: 10%;
+}
+#skills .skill-list div p {
+  margin: 0;
+  font-size: 0.75em;
+}
+#skills img {
+  max-width: 35%;
+  object-fit: contain;
+}
