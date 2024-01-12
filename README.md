@@ -4,10 +4,11 @@
 
 <img align='right' height='100' src='https://media0.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e47x2pzbrx2dw8d4k6qb3bhwzr55v36muidxfqbd12g&ep=v1_gifs_search&rid=giphy.gif&ct=g'>
 
-- 💻 I'm currently working on React.js and Three.js Website.
 - 🕹️ I'm currently working on online 3D platformer game in Unity.
+- 📐 I'm currently working on a Python script that can automate baking my shaders into image textures in Blender.
 - 🎬 Previously interned at Nickelodeon as a software developer for internal tools!
 - 📧 Contact me **laurencetimg@gmail.com**
+- 🖥️ Check out my portfolio here: **https://www.laurencetimg.com/**
 
 <h3 align='center'> 🤝 Connect with me 🤝 </h3>
   
