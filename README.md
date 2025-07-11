@@ -3,7 +3,7 @@
 
 - 🎮 I’m currently working on [Absolute Momentum](https://store.steampowered.com/app/3810400/Absolute_Momentum/)
 
-- 🎥 I work on Blender Animations and Game Dev Vlogs [Emergency Player](https://www.youtube.com/@EmergencyPlayer)
+- 🎥 I work on Blender Animations and Game Dev Vlogs on [Emergency Player](https://www.youtube.com/@EmergencyPlayer)
 
 - 👨‍💻 All of my projects are available at [https://www.laurencetimg.com/](https://www.laurencetimg.com/)
 
